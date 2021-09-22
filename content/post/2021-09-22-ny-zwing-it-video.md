@@ -1,7 +1,7 @@
 ---
 author: Gustav Eneberg
 title: Ny Zwing It video!
-date: 2021-09-22
+date: 2021-08-29
 description: Zwing It har publicerat en ny video som vi var med och producerade.
 tags:
   - Zwing-it
@@ -10,5 +10,6 @@ tags:
 categories:
   - Video
 ---
+### Vi har under sommaren producerat en hel del videor med Zwing It dansskola i Löddeköpinge och nu finns ytterligare en av dem ute på deras Facebook sida:
 
-{{< facebook Zwingitdansskola 1032708624302249 >}}
+<https://www.facebook.com/Zwingitdansskola/videos/1032708624302249>
