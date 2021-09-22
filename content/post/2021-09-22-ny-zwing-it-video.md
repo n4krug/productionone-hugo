@@ -11,5 +11,4 @@ categories:
   - Video
 ---
 
-
-{{< facebook 1032708624302249 >}}
+{{< facebook Zwingitdansskola 1032708624302249 >}}
