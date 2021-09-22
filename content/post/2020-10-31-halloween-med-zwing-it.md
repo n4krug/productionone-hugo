@@ -10,6 +10,6 @@ tags:
 categories:
   - Video
 ---
-Zwing It dansskola har skapat en Halloween dans som vi fick äran att spela in. Resultatet finns nu ute på YouTube:
+### Zwing It dansskola har skapat en Halloween dans som vi fick äran att spela in. Resultatet finns nu ute på YouTube:
 
-{{ youtube naQo11oXx1I }}
+{{< youtube naQo11oXx1I >}}
