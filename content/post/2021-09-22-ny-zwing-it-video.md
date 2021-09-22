@@ -1,6 +1,6 @@
 ---
 author: Gustav Eneberg
-title: Ny Zwing It video!
+title: Zwing It - Heaven On Earth | Ny Zwing It video!
 date: 2021-08-29
 description: Zwing It har publicerat en ny video som vi var med och producerade.
 tags:
