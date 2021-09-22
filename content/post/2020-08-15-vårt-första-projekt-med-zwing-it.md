@@ -10,6 +10,7 @@ tags:
 categories:
   - Video
 ---
-### Tillsammans med Zwing It dansskola i Löddeköpinge har vi producerat en dansvideo som finns ute på Youtube:
+
+### Tillsammans med Zwing It dansskola i Löddeköpinge har vi nu producerat en dansvideo som finns ute på Youtube:
 
 {{< youtube 5ToaSv-TceU >}}

@@ -10,6 +10,10 @@ html {
 	background: rgba(255, 255, 255, 0.9);
 }
 
+.bg-white {
+	background-color: rgba(247, 229, 128, 0.9);
+}
+
 .bg-gradient {
 	background-image: linear-gradient(
 		to top,
@@ -27,6 +31,10 @@ html {
 	position: relative;
 	min-height: 400px;
 	height: 50vh;
+}
+
+.bg-cover {
+	background-position-x: center;
 }
 
 .header:before,
