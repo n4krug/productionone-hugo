@@ -1,6 +1,6 @@
 theme = "bento"
 languageCode = "sv-se"
-baseurl = "https://flamboyant-banach-cc9cd2.netlify.app/"
+baseurl = "https://productionone.netlify.app"
 title = "ProductionOne"
 
 author = "Gustav Eneberg"
