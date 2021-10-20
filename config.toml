@@ -40,7 +40,7 @@ disqusShortname = "bento-hugo-theme"
   cover = "images/ProductionOne.jpg"
   ogImage = "images/og_image.jpg"
 
-  favicon = "images/ProductionOne-logo.ico"
+  favicon = "images/ProductionOne.svg"
 
   # Social media usernames
   instagram = "productionone.se"

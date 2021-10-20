@@ -126,4 +126,6 @@
     {{ $webmentions := resources.Get "js/webmentions.js" | minify | fingerprint }}
     <script src="{{ $webmentions.Permalink }}" type="text/javascript"></script>
   {{end}}
+
+  <link rel="shortcut icon" type="image/svg" href="{{.Permalink}}{{.Site.Params.favicon}}">
 </head>
