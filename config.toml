@@ -40,9 +40,11 @@ disqusShortname = "bento-hugo-theme"
   cover = "images/ProductionOne.jpg"
   ogImage = "images/og_image.jpg"
 
+  favicon = "images/ProductionOne-logo.ico"
+
   # Social media usernames
   instagram = "productionone.se"
-  email = "1productionone1@gmail.com"
+  email = "contact@productionone.se"
   youtube = "UC259DqYEg0ja4jeIQaSnjPQ"
 
   # Learn more about webmention 
@@ -52,7 +54,7 @@ disqusShortname = "bento-hugo-theme"
   # productionBaseUrl = "https://yourwebsite.com"
 
   # Avatar (shown in the homepage)
-  avatar = "images/camera-iris.png"
+  avatar = "images/ProductionOne.svg"
   # Bio is shown in the end of posts
   authorBio = "Du kan tweata om inlägget."
 
